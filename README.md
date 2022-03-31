@@ -1,45 +1,10 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='left' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="330" alt="giphy">](https://t.me/crisdavid3335)
+[<img align='left' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" alt="giphy">](https://t.me/crisdavid3335)
 
 <h1 align="center">Hola, ¡bienvenidos a este pequeño rincón de datos!</h1>
 <h2 align="center">«Me gusta escuchar los datos. Espero que tú también puedas escucharlos...».</h2>
 
-  <section id="service" class="services-mf route">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="title-box text-center">
-            <h3 class="title-a">
-              Intereses
-            </h3>
-            <p class="subtitle-a">
-              "Si miras al abismo, el abismo devuelve siempre la mirada."
-            </p>
-            <div class="line-mf"></div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="service-box">
-            <div class="service-ico">
-              <span class="ico-circle"><i class="ion-monitor"></i></span>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">Programación</h2>
-              <p class="s-description text-center">
-                Muy motivado para ello, la programación es una pasión. Desde un análisis de datos, una configuración de
-                sistema operativo o una nueva cosa que aprender. Lo cierto, paso gran parte de mi tiempo frente una
-                computadora.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
-    
 
 - 📫 How to reach me:
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40">](mailto:crisdavid3335@gmail.com)
