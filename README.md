@@ -16,10 +16,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=vue-dark&hide=html&hide_border=true&card_width=330)
 ![trophy](https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=onestar&column=3&row=2&theme=vue-dark)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=crisdavid3335&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdavid3335&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+
 - 📫 Contactos:
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40">](mailto:crisdavid3335@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/crisdavid3335)
 <a href="https://www.linkedin.com/in/crisdavid3335/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="35"></a>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=crisdavid3335&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdavid3335&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
