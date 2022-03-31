@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='left' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" alt="giphy">](https://t.me/crisdavid3335)
+[<img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" alt="giphy">](https://t.me/crisdavid3335)
 
 <h1 align="center">Hola, ¡bienvenidos a este pequeño rincón de datos!</h1>
 <h2 align="center">«Me gusta escuchar los datos. Espero que tú también puedas escucharlos...».</h2>
