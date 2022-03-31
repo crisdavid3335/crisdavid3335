@@ -3,13 +3,12 @@
 
 <h1 align="center">Hola, ¡bienvenidos a este pequeño rincón de datos!</h1>
 <h2 align="center">«Me gusta escuchar los datos. Espero que tú también puedas escucharlos...».</h2>
-[Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")(https://www.creative-tim.com/)
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Mis redes:</h3>
 <p align="left">
 </p>
 
-
-- 📫 How to reach me:
+- 📫 Contactos:
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40">](mailto:crisdavid3335@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/crisdavid3335)
 <a href="https://www.linkedin.com/in/crisdavid3335/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="35"></a>
