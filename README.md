@@ -1,59 +1,9 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="330" alt="giphy">](https://t.me/crisdavid3335)
+[<img align='center' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="330" alt="giphy">](https://t.me/crisdavid3335)
+
 <h1 align="center">Hola, ¡bienvenidos a este pequeño rincón de datos!</h1>
 <h2 align="center">«Me gusta escuchar los datos. Espero que tú también puedas escucharlos...».</h2>
 
-  <section id="about" class="about-mf sect-pt4 route">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="box-shadow-full">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="row">
-                  <div class="col-sm-6 col-md-5">
-                    <div class="about-img">
-                      <img src="img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-md-7">
-                    <div class="about-info">
-                      <p><span class="title-s">Nombre: </span> <span>Christian Altamirano</span></p>
-                      <p><span class="title-s">Perfil: </span> <span>Economista/Científico De Datos</span></p>
-                      <p><span class="title-s">Correo: </span> <span>Crisdavid3335@gmail.com</span></p>
-                      <p><span class="title-s">Celular: </span> <span>(+593) 996-266-200</span></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="skill-mf">
-                  <p class="title-s">Habilidades</p>
-                  <span>Python</span> <span class="pull-right">80%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80"
-                      aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>Stata</span> <span class="pull-right">75%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                      aria-valuemax="100"></div>
-                  </div>
-                  <span>Power BI</span> <span class="pull-right">40%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
-                      aria-valuemax="100"></div>
-                  </div>
-                  <span>Excel</span> <span class="pull-right">90%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
-                      aria-valuemax="100"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
     
 
 - 📫 How to reach me:
