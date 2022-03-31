@@ -11,8 +11,15 @@
 <!--Imagen Gift-->
 <img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" alt="giphy">
 <!---->
-
-
+<!--Contactos-->
+<h3 align="left">Contactos:</h3>
+<p align="left">
+<a href="https://twitter.com/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crisdavid3335" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisdavid3335" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/cristianaltamirano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="crisdavid3335" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crisdavid3335" height="30" width="40" /></a>
+</p>
+<!---->
 
 
 
