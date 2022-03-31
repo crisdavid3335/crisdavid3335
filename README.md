@@ -19,5 +19,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crisdavid3335&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=react&hide=html&hide_border=true&card_width=330)
-![trophy](https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crisdavid3335&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)             
+![trophy](https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=onestar&no-frame=true&column=3&row=2&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crisdavid3335&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)             
