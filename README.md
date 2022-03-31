@@ -104,6 +104,13 @@
       src="https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=radical" alt="crisdavid3335" /></a>
 </p>
 <!---->
+</p>
+<!--Gráfico de contribuciones-->
+<img align="center"
+    src="https://activity-graph.herokuapp.com/graph?username=crisdavid3335&theme=react-dark&line=0a60ff&point=20e2f7"
+    alt="https://github.com/crisdavid3335/github-readme-activity-graph" />
+<!---->
+
 </body>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------------------Eliminados----------------------------------------------------------------------------->
@@ -111,5 +118,6 @@
 <!--Logo de twitter-->
 <!--<p align="left"> <a href="https://twitter.com/crisdavid3335" target="blank"><img src="https://img.shields.io/twitter/follow/crisdavid3335?logo=twitter&style=flat-square" alt="crisdavid3335" /></a> </p>-->
 <!---->
-
 </html>
+
+
