@@ -8,17 +8,18 @@
 <p align="left">
 </p>
 
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=vue-dark&hide=html&hide_border=true&card_width=330)
+![trophy](https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=onestar&column=3&row=2&theme=vue-dark)
+
 - 📫 Contactos:
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40">](mailto:crisdavid3335@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/crisdavid3335)
 <a href="https://www.linkedin.com/in/crisdavid3335/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="35"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-         
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=crisdavid3335&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdavid3335&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=vue-dark&hide=html&hide_border=true&card_width=330)
-![trophy](https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=onestar&column=3&row=2&theme=vue-dark)
