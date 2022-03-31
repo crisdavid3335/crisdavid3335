@@ -6,14 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=radical" alt="crisdavid3335" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/crisdavid3335" target="blank"><img src="https://img.shields.io/twitter/follow/crisdavid3335?logo=twitter&style=plastic&logo=appveyor" alt="crisdavid3335" /></a> </p>?
+<p align="left"> <a href="https://twitter.com/crisdavid3335" target="blank"><img src="https://img.shields.io/twitter/follow/crisdavid3335?logo=twitter&style=flat-square" alt="crisdavid3335" /></a> </p>?
 <!---->
 <!---->
 <img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" alt="giphy">
 <!---->
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
 
 
 
