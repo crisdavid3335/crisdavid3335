@@ -19,20 +19,18 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=crisdavid3335&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdavid3335&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
 
-- 📫 Contactos:
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40">](mailto:crisdavid3335@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/crisdavid3335)
-<a href="https://www.linkedin.com/in/crisdavid3335/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="35"></a>
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crisdavid3335" height="30" width="40" /></a>
-<a href="https://twitter.com/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crisdavid3335" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisdavid3335" height="30" width="40" /></a>
-<a href="https://kaggle.com/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="crisdavid3335" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/crisdavid3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crisdavid3335" height="30" width="40" /></a>
-</p>
 
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdavid3335&label=Profile%20views&color=0e75b6&style=flat" alt="crisdavid3335" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdavid3335" alt="crisdavid3335" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/crisdavid3335" target="blank"><img src="https://img.shields.io/twitter/follow/crisdavid3335?logo=twitter&style=for-the-badge" alt="crisdavid3335" /></a> </p>
