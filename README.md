@@ -82,28 +82,18 @@
  </a>
 </div>
   <br>
-  <p align='center'>
-    Por último te dejo mi correo electrónico y mis diferentes perfiles:
-  <br>
-   <a href="Crisdavid3335@gmail.com" target="_blank" rel="noreferrer">
-   <li align='center'>
-    Crisdavid3335@gmail.com
-   </li>
-   </a>
-  </p>
-
 <!---->
 <!--Contactos (con link)-->
 <div>
 <h3 align="center">Contactos:</h3>
 <p align="center">
-  <a href="https://twitter.com/crisdavid3335" target="blank"><img align="center"
+  <a href="https://twitter.com/crisdavid3335" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="crisdavid3335" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/crisdavid3335" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/crisdavid3335" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="crisdavid3335" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/crisdavid3335" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/crisdavid3335" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="crisdavid3335" height="30" width="40" /></a>
 </p>
@@ -111,22 +101,28 @@
 <!---->
 <br>
 <!--Trofeo de github-->
+<a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=radical" alt="crisdavid3335" /></a>
 </p>
+</a>
 <!---->
 </p>
 <!--Gráfico de contribuciones-->
+<a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
 <img align="center"
     src="https://activity-graph.herokuapp.com/graph?username=crisdavid3335&theme=react-dark&line=0a60ff&point=20e2f7"
     alt="https://github.com/crisdavid3335/github-readme-activity-graph" />
+</a>
 <!---->
+<a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
  <img align='left'
       src="https://img.icons8.com/nolan/344/darth-vader.png" 
       width = "200px"/>
       <br>
       <br>
       <h1 align="center">Que la Fuerza te acompañe!</h1>
+</a>
 </body>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-----------------------------------------------------------------------------Eliminados----------------------------------------------------------------------------->
