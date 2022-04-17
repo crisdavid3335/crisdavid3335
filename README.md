@@ -33,7 +33,7 @@
     Este es mi perfil de GitHub, en este lugar puedes encontrar los trabajos que he realizado, entre ellos los de mi blog y página personal:
   </p>
   <li align='center'>
-    https://crisdavid3335.github.io
+    https://crisdavid3335.github.io 
   </li>
   <br>
   <p align='center'>
