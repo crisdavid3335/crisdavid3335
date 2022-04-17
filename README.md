@@ -32,9 +32,11 @@
   <p align='center'>
     Este es mi perfil de GitHub, en este lugar puedes encontrar los trabajos que he realizado, entre ellos los de mi blog y página personal:
   </p>
+  <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
   <li align='center'>
     https://crisdavid3335.github.io 
   </li>
+  </a>
   <br>
   <p align='center'>
     Tanto en el blog como en este perfil publico periódicamente análisis de datos que he realizado, esto incluye concursos de kaggle, proyectos de portafolio, proyectos de hackathon y algún que otro tutorial o artículo de interés en mi blog.
