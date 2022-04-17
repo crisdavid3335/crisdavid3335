@@ -102,8 +102,8 @@
 <br>
 <!--Trofeo de github-->
 <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=radical" alt="crisdavid3335" /></a>
+<p align="center"><img
+      src="https://github-profile-trophy.vercel.app/?username=crisdavid3335&theme=radical" alt="crisdavid3335" />
 </p>
 </a>
 <!---->
