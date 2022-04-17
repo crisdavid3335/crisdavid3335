@@ -59,7 +59,7 @@
  </a>
   <br>
   <br>
-  <p align="left">
+  <p align="justify">
     Como puedes ver el lenguaje que más utilizo es python 3 y la mejor forma de explicar el análisis de datos tal y como se realiza es utilizando "Jupyter Notebook". El resto de lenguajes es mayormente para mi blog y para otros proyectos.
   </p>
 </div>
