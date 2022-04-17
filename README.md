@@ -5,7 +5,7 @@
  <hr>
   <h1 align="center">¡Bienvenidos a este pequeño rincón de datos!</h1>
  <hr>
-  <p align="center">"Me gusta escuchar los datos. Espero que tú también puedas escucharlos..."</p>
+  <p align="center">"Me gusta escuchar a los datos. Espero que tú también puedas escucharlos..."</p>
 </div>
 <!---->
 
