@@ -85,7 +85,7 @@
   <p align='center'>
     Por último te dejo mi correo electrónico y mis diferentes perfiles:
   <br>
-   <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
+   <a href="Crisdavid3335@gmail.com" target="_blank" rel="noreferrer">
    <li align='center'>
     Crisdavid3335@gmail.com
    </li>
