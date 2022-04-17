@@ -50,9 +50,11 @@
   <br>
 <!--Top Lenguajes-->
 <div>
+ <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=vue-dark&hide=html&hide_border=true&card_width=330"
-    alt="My github stats" />
+    alt="My github stats" />  
+ </a>
   <br>
   <br>
   <p align="left">
@@ -63,9 +65,11 @@
   <br>
  <!--Calificaciones-->
 <div>
+ <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
 <img align="center"
   src="https://github-readme-stats.vercel.app/api?username=crisdavid3335&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true"
   alt="My github stats" />
+  </a>
 </div>
 <!---->
   <br>
