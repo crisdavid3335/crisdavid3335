@@ -75,15 +75,19 @@
   <br>
 <!--Días continuos-->
 <div>
+ <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
 <img align="center"
   src="https://github-readme-streak-stats.herokuapp.com?user=crisdavid3335&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
   alt="My github stats" />
+ </a>
 </div>
   <br>
   <p align='center'>
     Por último te dejo mi correo electrónico y mis diferentes perfiles:
   <br>
+   <li align='center'>
     Crisdavid3335@gmail.com
+   </li>
   </p>
 
 <!---->
