@@ -99,7 +99,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="crisdavid3335" height="30" width="40" /></a>
    <a href="https://wa.me/593996266200?text=Hola, Christian, me interesa tu trabajo " target="_blank" rel="noreferrer"><img align="center"
-      src="https://www.shareicon.net/data/128x128/2017/03/07/880647_media_512x512.png"
+      src="https://www.pngplay.com/wp-content/uploads/8/Whatsapp-Logo-PNG-HD-Quality.png"
       alt="crisdavid3335" height="30" width="30" /></a>
 </p>
 </div>
