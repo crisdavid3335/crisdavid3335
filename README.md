@@ -98,7 +98,7 @@
   <a href="https://www.hackerrank.com/crisdavid3335" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="crisdavid3335" height="30" width="40" /></a>
-   <a href="https://wa.me/593996266200?text=Hola, Christian, me interesa tu trabajo " target="_blank" rel="noreferrer"><img align="center"
+   <a href="https://wa.me/59897234803?text=Hola, Christian, me interesa tu trabajo " target="_blank" rel="noreferrer"><img align="center"
       src="https://www.pngplay.com/wp-content/uploads/8/Whatsapp-Logo-PNG-HD-Quality.png"
       alt="crisdavid3335" height="30" width="30" /></a>
 </p>
