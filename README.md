@@ -54,7 +54,7 @@
 <div>
  <a href="https://crisdavid3335.github.io" target="_blank" rel="noreferrer">
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335&layout=default&theme=vue-dark&hide=html&hide_border=true&card_width=330"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdavid3335"
     alt="My github stats" />  
  </a>
   <br>
